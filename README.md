@@ -14,3 +14,7 @@ PUT/UPDATE:You update spcific data points in the databse by ID
 
 
 DELETE: This will delete the details by ID
+
+
+
+Heroku website:http://zuriemail.herokuapp.com
